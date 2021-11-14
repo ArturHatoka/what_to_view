@@ -6,9 +6,10 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "latest",
+    "postcss": "^8.3.11"
   },
   "dependencies": {
-    "@nuxtjs/vuetify": "^1.12.1"
+    "@dansmaculotte/nuxt-security": "^0.0.5"
   }
 }
